@@ -1,6 +1,6 @@
 # Dia landing page
 
-- [DEMO LINK](https://nasytheslayer.github.io/Dia_landing/)
+- [DEMO LINK](https://nasytheslayer.github.io/DiaLanding/)
 
 - [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
 
@@ -22,12 +22,12 @@ $ nvm use 14
 
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
-$ git clone https://github.com/NasyTheSlayer/Dia_landing.git
+$ git clone https://github.com/NasyTheSlayer/DiaLanding.git
 ```
 
 3. Open project in terminal (or GitBash for Windows users):
 ```
-$ code Dia_landing
+$ code DiaLanding
 ```
 
 4. Set up project and install necessary packages in the code-editor you use:
